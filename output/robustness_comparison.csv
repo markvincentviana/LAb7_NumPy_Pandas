@@ -1,0 +1,6 @@
+Feature,MeanDiff_AvailableCase,MeanDiff_Imputation,Bootstrap_Mean_Available,Bootstrap_Mean_Imputation,CI_Lower_Available,CI_Upper_Available,CI_Lower_Imputation,CI_Upper_Imputation,Sign_Changed,Rank_Changed
+Feature_212,0.0003,0.0005,0.0002,0.0003,-0.0055,0.0059,-0.0053,0.006,False,False
+Feature_117,-0.4355,-0.4355,-0.4384,-0.4384,-0.895,-0.1113,-0.895,-0.1113,False,False
+Feature_296,-126.2598,-131.1652,-130.3983,-135.1651,-438.6258,215.6939,-441.6951,205.7072,False,False
+Feature_215,-0.0022,-0.0023,-0.0019,-0.0019,-0.0078,0.0035,-0.0078,0.0034,False,False
+Feature_050,-0.5266,-0.526,-0.5133,-0.5127,-1.9626,0.9084,-1.9626,0.9092,False,False

@@ -1,0 +1,6 @@
+Feature,Pass_Mean,Fail_Mean,Absolute_Mean_Diff,Standardized_Mean_Diff
+Feature_294,344.339,608.8322,264.4932,0.4291
+Feature_215,0.0774,0.0837,0.0063,0.2262
+Feature_211,0.0596,0.0664,0.0068,0.1878
+Feature_118,0.5981,0.5969,0.0012,0.129
+Feature_050,631.0905,631.812,0.7215,0.0899

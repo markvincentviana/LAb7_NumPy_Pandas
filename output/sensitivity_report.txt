@@ -1,0 +1,28 @@
+SENSITIVITY & ROBUSTNESS ANALYSIS REPORT
+Student: Viana, ID: TUPM-26-1953
+Bootstrap Repetitions: 230
+Random Seed: 261953
+
+=== FEATURE COMPARISON STRATEGIES ===
+- Strategy A: Available-Case Analysis (uses only observed values)
+- Strategy B: Median Imputation (fills missing with dataset median)
+
+=== KEY FINDINGS ===
+Features Selected: Feature_212, Feature_117, Feature_296, Feature_215, Feature_050
+
+Largest Change in Mean Difference:
+  Feature: Feature_296
+  Available-Case Mean Diff: -126.2598
+  Imputation Mean Diff:     -131.1652
+  Absolute Difference:      4.9054
+
+Features with Changed Difference Sign:  0 / 5
+Features with Changed Ranking:        0 / 5
+
+=== INTERPRETATION ===
+- Bootstrap resampling shows how stable group differences are under repeated sampling
+- Confidence intervals that do NOT include zero = statistically reliable difference
+- Differences between Strategy A and B show how sensitive conclusions are to missing-data handling
+- Always report BOTH your data source AND your preprocessing choices!
+
+Reproducibility Verified: True
